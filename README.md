@@ -19,4 +19,4 @@ Illyasveil by 916253
 
 MusicBot by ????? (I'm sorry)
 
-for making your stuffs open-sourced, and for allowing me a chacne to learn how to make stuffs on my own.
+for making your stuffs open-sourced, and for allowing me a chance to learn how to make stuffs on my own.
