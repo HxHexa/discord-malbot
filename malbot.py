@@ -167,5 +167,5 @@ async def manga(ctx, *, name):
     else:
         await bot.say(embed=makeembed('manga', id))
 
-bot.run('MzI0NTM0NTI1NjEyOTE2NzQ2.DGoBvA.khaNOzSmB_Gll1wc4c-z-gpLHf0')
+bot.run('')
 
